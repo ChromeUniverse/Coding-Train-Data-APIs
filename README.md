@@ -6,6 +6,8 @@ You can access the full playlist [here](https://www.youtube.com/playlist?list=PL
 
 ## Checklist
 
+List of videos watched so far.
+
 ### Module 1
 
 - [x] 1.1 fetch()
