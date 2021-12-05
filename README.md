@@ -8,7 +8,7 @@ You can access the full playlist [here](https://www.youtube.com/playlist?list=PL
 
 List of videos watched so far.
 
-### Module 1
+### ~~Module 1~~ Done!
 
 - [x] 1.1 fetch()
 
@@ -16,11 +16,11 @@ List of videos watched so far.
 
 - [x] 1.3 Graphing with Chart.js
 
-- [ ] 1.4 JSON
+- [x] 1.4 JSON
 
-- [ ] 1.5 Mapping Geolocation with Leaflet.js
+- [x] 1.5 Mapping Geolocation with Leaflet.js
 
-- [ ] 1.6 Refreshing Data with setInterval()
+- [x] 1.6 Refreshing Data with setInterval()
 
 
 ### Module 2
